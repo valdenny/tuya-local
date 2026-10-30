@@ -1307,6 +1307,7 @@ port and password.
 - Rojeco PTM-001, PAF-186B pet feeders
 - Rojeco V200 DU3L-VS camera pet feeder
 - Sailesi self-cleaning litter box
+- Smart Pet Feeder (unbranded, with water fountain)
 - Sobralik pet fountain
 - TA-FD-BL6 camera pet feeder
 - Tesla Smart fish and pet feeders
